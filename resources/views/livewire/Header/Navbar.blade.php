@@ -1,7 +1,7 @@
 <div>
-    <nav class="navbar bg-body-tertiary">
+    <nav class="fixed-top navbar bg-body-tertiary">
         <div class="container-fluid col-md-11">
-            <a class="navbar-brand">Ecommerce</a>
+            <a href="/" class="navbar-brand">Ecommerce</a>
                 <a href="/ShowCarrinho">
                     <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor"
                         class="bi bi-bag-check-fill" viewBox="0 0 16 16">

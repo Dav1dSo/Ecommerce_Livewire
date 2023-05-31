@@ -2,7 +2,7 @@
     integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
 <link rel="preconnect" href="https://fonts.bunny.net">
 <livewire:header.navbar />
-<div>
+<div style="padding-top: 5vh">
     <div class="m-5">
         <a href="/" class="text-decoration-none text-dark bg-body-tertiary mb-4">
             <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
@@ -107,7 +107,7 @@
                     </div>
                     <div class="d-flex justify-content-between p-2">
                         <h5 class="card-text">Total</h5>
-                        <h5>R$ 201, 00</h5>
+                        <h5>R$ 201, 00</h5>  
                     </div>
                     <form action="#">
                         <div class="input-group mt-3">
