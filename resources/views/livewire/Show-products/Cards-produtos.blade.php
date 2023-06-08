@@ -4,7 +4,7 @@
         <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">Some quick example text to build on the card of the card'scontent.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="/ViewProduct/{1}" class="btn btn-primary">Ver produto</a>
         </div>
     </div>
     <div class="card m-4" style="width: 22rem;">
@@ -12,7 +12,7 @@
         <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">Some quick example text to build on the card of the card'scontent.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="#" class="btn btn-primary">Ver produto</a>
         </div>
     </div>
     <div class="card m-4" style="width: 22rem;">
@@ -20,7 +20,7 @@
         <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">Some quick example text to build on the card of the card'scontent.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="#" class="btn btn-primary">Ver produto</a>
         </div>
     </div>
     <div class="card m-4" style="width: 22rem;">
@@ -28,7 +28,7 @@
         <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">Some quick example text to build on the card of the card'scontent.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="#" class="btn btn-primary">Ver produto</a>
         </div>
     </div>
     <div class="card m-4" style="width: 22rem;">
@@ -36,7 +36,7 @@
         <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">Some quick example text to build on the card of the card'scontent.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="#" class="btn btn-primary">Ver produto</a>
         </div>
     </div>
     <div class="card m-4" style="width: 22rem;">
@@ -44,7 +44,7 @@
         <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">Some quick example text to build on the card of the card'scontent.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="#" class="btn btn-primary">Ver produto</a>
         </div>
     </div>
     <div class="card m-4" style="width: 22rem;">
@@ -52,7 +52,7 @@
         <div class="card-body">
             <h5 class="card-title">Card title</h5>
             <p class="card-text">Some quick example text to build on the card of the card'scontent.</p>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="#" class="btn btn-primary">Ver produto</a>
         </div>
     </div>
 </div>
