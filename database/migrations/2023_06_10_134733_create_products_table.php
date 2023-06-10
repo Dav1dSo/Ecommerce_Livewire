@@ -18,6 +18,7 @@ return new class extends Migration
             $table->string('description');
             $table->integer('stock');
             $table->integer('solds');
+            $table->string('image');
             $table->timestamps();
         });
     }

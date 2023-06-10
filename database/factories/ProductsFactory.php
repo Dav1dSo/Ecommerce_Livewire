@@ -22,7 +22,10 @@ class ProductsFactory extends Factory
             'title' => $this->faker->text($maxNbChars = 10),
             'description' => $this->faker->text($maxNbChars = 200),
             'stock' => $this->faker->randomDigitNotNull,
-            'solds' => $this->faker->randomDigitNotNull                 
+            'solds' => $this->faker->randomDigitNotNull,
+            'image' => $this->faker->imageUrl($width = 640, $height = 480)
+            
+            
 
         ];
     }
