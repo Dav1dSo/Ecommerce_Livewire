@@ -13,9 +13,9 @@
 
 <body>
 
-    <livewire:header.navbar />
-    <livewire:filter-produtos.filter />
-    <livewire:show-products.cards-produtos>
+    <livewire:nav.nav />
+    <livewire:filter.filter />
+    <livewire:show-produtos.show>
 
     @livewireScripts
 </body>

@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Livewire\ViewProduct;
+namespace App\Http\Livewire\ViewDetails;
 
 use Livewire\Component;
 
-class ProductView extends Component
+class Details extends Component
 {
     public function render()
     {
