@@ -15,19 +15,18 @@
     <div class="card col-md-8 p-5">
         <div class="row g-0">
             <div class="col-md-4">
-                <img src="https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/oficinadosbits/media/uploads/produtos/foto/tklethkd/file.png"
+                <img src="{{url("$product_id->image")}}"
                     class="img-fluid rounded-start h-100" alt="...">
             </div>
             <div class="col-md-8">
                 <div class="card-body">
 
-                    <p class="card-title mb-4">Categoria</p>
-                    <h2>Nome do produto</h2>
-                    <h4><strong>R$161,00</strong></h4>
-                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
-                        additional content. This content is a little bit longer.</p>
+                    <p class="card-title mb-4">{{$product_id->categorie}}</p>
+                    <h2>{{$product_id->title}}</h2>
+                    <h4><strong>R$ {{ number_format((float) $product_id->price, 2) }}</strong></h4>
+                    <p class="card-text">Estoque: {{$product_id->stock}}</p>
                     <h4>Descrição</h4>
-                    <h5>The hnohbodas hofbre oihadosa ahjdaohgdabv ap0hgdaobd oahfodbaaobgd aobgaofo</h5>
+                    <h5>{{$product_id->description}}</h5>
                     <button type="button" class="btn btn-secondary btn-lg btn-block mt-4">Adicionar ao carrinho</button>
                 </div>
             </div>
