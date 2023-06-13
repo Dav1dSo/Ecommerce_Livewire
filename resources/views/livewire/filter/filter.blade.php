@@ -17,7 +17,7 @@
             <a class="nav-link dropdown-toggle bg-body-secondary rounded-pill p-2" data-bs-toggle="dropdown"
                 href="#" role="button" aria-expanded="false">FILTRA POR</a>
             <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Menor preço</a></li>
+                <li><a class="dropdown-item" href="/filterBy/desc">Menor preço</a></li>
                 <li><a class="dropdown-item" href="#">Mais novos</a></li>
                 <li><a class="dropdown-item" href="#">Mais vendidos</a></li>
             </ul>
